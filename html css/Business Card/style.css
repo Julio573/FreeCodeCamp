@@ -1,0 +1,41 @@
+body {
+    background-color: rosybrown;
+    font-family: Arial, Sans-serif;
+}
+
+.business-card {
+    width: 300px;
+    margin: 100px auto auto;
+    padding: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    font-size: 16px;
+}
+
+p {
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border: 1px dashed slategray;
+}
+
+.profile-img {
+    width: 200px;
+}
+
+.full-name {
+    font-size: 20px;
+    color: gray;
+}
+
